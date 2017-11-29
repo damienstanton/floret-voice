@@ -1,0 +1,4 @@
+
+before_install: cd functions
+install: yarn install
+script: yarn test
