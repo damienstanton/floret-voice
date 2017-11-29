@@ -1,5 +1,8 @@
 # 🤖  Floret Voice
 
+| Health | ![](https://travis-ci.org/damienstanton/floret-voice.svg?branch=master) |
+| --- | --- |
+
 Simple proof of concept that takes a voice intent and proxies an API call to retrieve data from [Wireless Registry](https://wirelessregistry.com/index.html)
 
 **Commands:**
